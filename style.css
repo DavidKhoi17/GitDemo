@@ -1,3 +1,16 @@
 *{
     border: 1px red solid;
 }
+
+h1{
+    color: white;
+    background-color: black;
+}
+
+.header{
+    background-color: white;
+}
+
+.header h2{
+    color: black;
+}
